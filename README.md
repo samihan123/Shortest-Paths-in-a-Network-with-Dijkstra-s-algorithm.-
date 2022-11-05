@@ -1,4 +1,4 @@
-# Shortest-Paths-in-a-Network-with-Dijkstra-s-algorithm.
+# Shortest-Paths-in-a-Network-Using-Dijkstra-s-algorithm.
 
 
 **ITCS-6114/8114: Algorithms and Data Structures**
